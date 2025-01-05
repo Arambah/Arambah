@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @7Arambah.
 - 👀 I’m interested in hack any server or website.
-- 🌱 I am masters of all.
-- 💞️ I’m looking to collaborate on ?
-- 📫 No one can reach me.
+- 🌱 I am trying to learning.
+- 💞️ I’m looking who gudie me?
 - ⚡ Fun fact:No fun.
 
 <!---
